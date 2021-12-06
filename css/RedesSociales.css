@@ -98,14 +98,14 @@ nav a {
     color: #ffffff;
     font-size: 16px;
     padding: 10px 25px;
-    background: linear-gradient(50deg, #FFC72C, #ffc72cc0);
+    background: linear-gradient(50deg, #ff2c2c, #ff2c2cc0);
     border-radius: 5px;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
 
 nav a:hover {
-    color: #646A02;
+    color: #ffff25;
     border-style: solid;
     padding: 10px 10px;
     border-radius: 5px;
@@ -160,8 +160,8 @@ footer {
 
 .footer-container {
     width: 100%;
-    background: #646A02;
-    color: #050505;
+    background: #f5f523;
+    color: #000000;
 }
 
 .footer-main {
@@ -191,7 +191,7 @@ footer {
 .footer-main .footer-columna input[type="email"] {
     border: none;
     width: 100%;
-    border: 1px solid #646A02;
+    border: 1px solid #000000;
     font-size: 14px;
     padding: 10px;
     font-family: Raleway;
@@ -199,8 +199,8 @@ footer {
 
 .footer-main .footer-columna input[type="submit"] {
     border: none;
-    background: #050505;
-    color: #646A02;
+    background: linear-gradient(50deg, #d32727, #f00b0bc0);
+    color: #ffffff;
     padding: 10px 40px;
     font-size: 18px;
     margin-top: 10px;
